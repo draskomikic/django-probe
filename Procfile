@@ -1,1 +1,1 @@
-web: gunicorn probe/wsgi.py
+web: gunicorn probe.wsgi
